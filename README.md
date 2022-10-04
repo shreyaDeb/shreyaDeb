@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning ... 
     - **Databases**: learning how to use MySQL and code in Java, 
-    - **Networks**: learning the 7 layers of OSI model, Sockets how it connects the client and server sides, Wireshark, Routing Algorithms, Deep Web, TOR, Wireless Networks, and touching upon Security, Forensica and AWS, 
+    - **Networks**: learning the 7 layers of OSI model, Sockets how it connects the client and server sides, Wireshark, Routing Algorithms, Deep Web, TOR, Wireless Networks, and touching upon Security, Forensics and AWS, 
     - **Web Development**: HTML, CSS, JavaScript, PHP,LAMP Stack, NodeJS, ExpressJS, ReactJS, MySQL, jQuery, Bootstrap
     - **Operating Systems**: Memory management, Process management, File Management, 
     - **Linear Algebra**
