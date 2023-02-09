@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @shreyaDeb
 
-- 👀 I’m interested in ... Full Stack Development, Networks, Cyber Security, Computer Forensics and UX/UI
+- 👀 I’m interested in ... Full Stack Development, Networks, Cyber Security, Computer Forensics, System Administration and UX/UI
 
 - ⌛ In my free time i like to ... Watch Anime, Write, Draw and Learn New Languages
 
 - 🌱 I’m currently learning ... 
-    - **Databases**: learning how to use MySQL and code in Java, 
-    - **Networks**: learning the 7 layers of OSI model, Sockets how it connects the client and server sides, Wireshark, Routing Algorithms, Deep Web, TOR, Wireless Networks, and touching upon Security, Forensics and AWS, 
-    - **Web Development**: HTML, CSS, JavaScript, PHP,LAMP Stack, NodeJS, ExpressJS, ReactJS, MySQL, jQuery, Bootstrap
-    - **Operating Systems**: Memory management, Process management, File Management, 
-    - **Linear Algebra**
+    - **Cuputer Security**: Buffer Overflow, Shellshock Attack, SQL Injection, Cross-site-scripting (XSS) attack, Packet Sniffing and Spoofing, DNS Cache Poisoning, TCP/IP Attacks, Firewalls, Symmetric Key Cryptography, Hashing, Asymmetric Cryptography/RSA, Threat Modeling
+    - **Compilers**: Capstone Project (using Java)
+    - **Advanced Software Engineering**: USE, OCL, UML
+    - **Human Computer Interaction**
+    - **Introduction to Differenti Equation**
 
-- 📚 I have learnt the following languages...HTML, CSS, Python, MySQL, PHP, JavaScript, C, C++, Java
+- 📚 I have learnt the following languages/concepts...**HTML, CSS, Python, MySQL, PHP, JavaScript, C, C++, Java, ReactJS, Git, Linux Agile/Scrum, SDLC** 
 
 - 💻 Elementary proficiency in Latex, RStudio, Fortran, Lisp, C#
 
