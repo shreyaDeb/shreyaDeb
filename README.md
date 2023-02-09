@@ -17,7 +17,7 @@
 
 - 📫 Email reach out at: shreya.deb@icloud.com
 
-- 📱reach me at if interested: (415)-341-6290
+- 📱reach me at if interested: +1(415)-341-6290
 
 
 <!---
