@@ -2,14 +2,10 @@
 
 - 👀 I’m interested in ... Full Stack Development (Front/Back/Both), Networks, Cyber Security, Computer Forensics, System Administration and UX/UI
 
-- ⌛ In my free time i like to ... Watch Anime, Write, Draw and Learn New Languages
+- ⌛ In my free time i like to ... Watch Anime, Write, Draw and Learn New Languages.
 
 - 🌱 I’m currently learning ... 
-    - **Cuputer Security**: Buffer Overflow, Shellshock Attack, SQL Injection, Cross-site-scripting (XSS) attack, Packet Sniffing and Spoofing, DNS Cache Poisoning, TCP/IP Attacks, Firewalls, Symmetric Key Cryptography, Hashing, Asymmetric Cryptography/RSA, Threat Modeling
-    - **Compilers**: Capstone Project (using Java)
-    - **Advanced Software Engineering**: USE, OCL, UML
-    - **Human Computer Interaction**
-    - **Introduction to Differenti Equation**
+    - django framework
 
 - 📚 I have learnt the following languages/concepts...**HTML, CSS, Python, MySQL, PHP, JavaScript, C, C++, Java, ReactJS, Git, Linux Agile/Scrum, SDLC** 
 
