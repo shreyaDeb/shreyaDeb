@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ... 
     - Django rest framework
 
-- 📚 I have learned the following languages/concepts...**HTML, CSS, Python, MySQL, PHP, JavaScript, C, C++, Java, ReactJS, Git, Linux Agile/Scrum, SDLC, Django framework**
+- 📚 I have learned the following languages/concepts...**Python, HTML, CSS, MySQL, PHP, JavaScript, C, C++, Java, ReactJS, Git, Linux Agile/Scrum, SDLC, Django framework, PostgreSQL**
 
 - 💻 Elementary proficiency in Latex, RStudio, Fortran, Lisp, C#, MatLab
 
