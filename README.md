@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @shreyaDeb
 
-- 👀 I’m interested in ... Full Stack Development (Front/Back/Both), Networks, Cyber Security, Computer Forensics, System Administration and UX/UI
+- 👀 I’m interested in ... Full Stack Development (Front/Back/Both), Networks, Cyber Security, Computer Forensics, System Administration, and UX/UI
 
-- ⌛ In my free time i like to ... Watch Anime, Write, Draw and Learn New Languages.
+- ⌛ In my free time I like to ... Watch Anime, Write, Draw, and Learn New Languages.
 
 - 🌱 I’m currently learning ... 
-    - django framework
+    - Django rest framework
 
-- 📚 I have learnt the following languages/concepts...**HTML, CSS, Python, MySQL, PHP, JavaScript, C, C++, Java, ReactJS, Git, Linux Agile/Scrum, SDLC** 
+- 📚 I have learned the following languages/concepts...**HTML, CSS, Python, MySQL, PHP, JavaScript, C, C++, Java, ReactJS, Git, Linux Agile/Scrum, SDLC, Django framework**
 
 - 💻 Elementary proficiency in Latex, RStudio, Fortran, Lisp, C#, MatLab
 
