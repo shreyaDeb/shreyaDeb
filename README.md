@@ -5,15 +5,15 @@
 - ⌛ In my free time I like to ... Watch Anime, Write, Draw, and Learn New Languages.
 
 - 🌱 I’m currently learning ... 
-    - Django rest framework
+    - Java Spring Boot
 
-- 📚 I have learned the following languages/concepts...**Python, HTML, CSS, MySQL, PHP, JavaScript, C, C++, Java, ReactJS, Git, Linux Agile/Scrum, SDLC, Django framework, PostgreSQL**
+- 📚 I have learned the following languages/concepts...**Python, JavaScript, C, C++, Java, ReactJS, Git, Linux Agile/Scrum, SDLC, Django framework, MYSQL, SQLite, PostgreSQL**
 
 - 💻 Elementary proficiency in Latex, RStudio, Fortran, Lisp, C#, MatLab
 
 - 📫 Email reach out at: shreya.deb@icloud.com
 
-- 📱reach me at if interested: +1(415)-341-6290, +91 96330 91525
+- 📱reach me at if interested: +91 96330 91525, +91 9810666525
 
 
 <!---
